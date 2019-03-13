@@ -1,2 +1,0 @@
-FROM gcr.io/google_containers/etcd-amd64:3.2.24
-MAINTAINER chinadm123   chinadm123@126.com
